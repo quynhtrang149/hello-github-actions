@@ -1,5 +1,5 @@
 jobs: tester
-  build:
+  build: steps by steps
     name: Hello world action
     runs-on: ubuntu-latest
     steps:
