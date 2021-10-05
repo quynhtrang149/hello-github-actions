@@ -1,4 +1,4 @@
-jobs:
+jobs: tester
   build:
     name: Hello world action
     runs-on: ubuntu-latest
